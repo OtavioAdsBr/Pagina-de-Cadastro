@@ -1,4 +1,4 @@
-# Pagina de Cadastro
+# Página de Cadastro
 
 - Repositório da Página de Cadastro 📝✨.
 ##
